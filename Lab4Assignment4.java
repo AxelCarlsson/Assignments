@@ -4,8 +4,8 @@ public class Lab4Assignment4 {
          * Skriv ut multiplikationstabellen
          * 1-10 med två nästlade loopar
          * 
-         * FÖR i < 10 
-         *  FÖR j < 10
+         * FÖR i < 11 
+         *  FÖR j < 11
          *    Skriv ut i * j
          */
 

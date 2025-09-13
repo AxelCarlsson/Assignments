@@ -7,8 +7,11 @@ public class Lab4Assignment3 {
          * Skriv ut multiplikationstabellen 
          * för talet
          * 
+         * Be användare om input
          * FÖR input * i upp till i = 10
+         *  skriv ut i * input
          */
+        
         System.out.println("Vilken multiplikationstabbel vill du använda?");
         Scanner sc = new Scanner(System.in);
         int input = sc.nextInt();

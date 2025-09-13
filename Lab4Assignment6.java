@@ -7,12 +7,13 @@ public class Lab4Assignment6 {
          * 
          * Skriv ut "Gissa ett heltal 1-100"
          * 
-         * OM gissning < tal
-         *  skriv ut "För lågt"
-         * OM gissning > tal
-         *  skriv ut "För högt"
-         * OM gissning == tal
-         *  skriv ut "Rätt!"
+         * MEDAN gissning != slumpat tal
+         *  OM gissning < tal
+         *   skriv ut "För lågt"
+         *  OM gissning > tal
+         *   skriv ut "För högt"
+         * 
+         * skriv ut "Rätt!"
          */
 
         Scanner sc = new Scanner(System.in);

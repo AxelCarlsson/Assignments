@@ -13,7 +13,7 @@ public class Lab4Assignment5 {
          *  skriv ut "Ange värde, ange -1 ifall klar"
          *  spara över variabel med nytt värde
          * 
-         * Skriv ut medelvärde
+         * Skriv ut medelvärde  
          */
         
         Scanner sc = new Scanner(System.in);

@@ -7,9 +7,19 @@ public class Lab4Assignment2 {
          * 
          * OM (tal1 == tal2 && tal1 == 3)
          *  skriv ut "Alla tal är lika stora"
+         * 
          * OM (tal1 > tal2 && tal1 > tal3)
          *  skriv ut "X tal är sörst"
+         * OM (tal2 > tal1 && tal1 > tal3)
+         *  skriv ut "X tal är sörst"
+         * OM (tal1 > tal2 && tal1 > tal3)
+         *  skriv ut "X tal är sörst"
+         * 
          * OM (tal1 == tal2 && tal1 > tal3) 
+         *  skriv ut "X och Y är lika stora och Z är minst"
+         * OM (tal1 == tal3 && tal1 > tal2) 
+         *  skriv ut "X och Y är lika stora och Z är minst"
+         * OM (tal2 == tal3 && tal2 > tal1) 
          *  skriv ut "X och Y är lika stora och Z är minst"
          * 
          * Kan använda array för att minska koden förmodligen
